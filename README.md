@@ -1,3 +1,3 @@
 # final-project
 
-COGS 3 final project portfolio 
+https://jodiiroe.github.io/final-project/
